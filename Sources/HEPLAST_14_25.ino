@@ -14,7 +14,7 @@
  *    - Debug info printed via Serial Monitor
  * 
  *  Components:
- *    - Arduino Uno or Nano
+ *    - Arduino Uno or Nano (with expansion board)
  *    - 10k Potentiometer
  *    - Push-button (to GND)
  *    - Blue LED (status - PWM breathing)
