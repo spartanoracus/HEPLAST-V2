@@ -18,4 +18,4 @@ A secure, user-interactive control system for a PET Bottle to filament extruder.
 - Breathing status LED
 - Heater status LED
 
-(Images/IMG_20250714_023119%20(1).png)
+!(Images/IMG_20250714_023119%20(1).png)
